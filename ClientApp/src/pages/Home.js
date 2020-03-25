@@ -15,7 +15,7 @@ function Home(props) {
                 <li>Paper free contracts.</li>
             </ul>
 
-            Version 1.0.0.4
+            Version 1.0.0.5
         </Card>
 
     );
