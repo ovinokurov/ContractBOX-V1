@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ContractBOX</name>
+    </assembly>
+    <members>
+        <member name="M:ContractBOX.Controllers.TokenController.Token(ContractBOX.Models.LoginViewModel)">
+            <summary>
+            Create Token  
+            </summary>
+            <returns></returns>
+            <remarks>
+            ### REMARKS ###
+            The following POST generates Token 
+            - 201 - Token Created 
+            </remarks>
+        </member>
+    </members>
+</doc>

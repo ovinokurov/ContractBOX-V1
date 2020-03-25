@@ -1,0 +1,51 @@
+.contractboxes {
+    margin: 45px auto;
+    width: 220px;
+}
+
+.contractbox {
+    margin-top: 45px;
+}
+
+.contract-viewer {
+    padding: 45px;
+}
+
+.none-selected {
+    margin: 35px;
+    padding: 35px;
+    font-size: 1.2em;
+}
+
+.STATUS
+{
+    width: 50px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.CANCELED{
+    background-color:#f44336;
+    color: white;
+}
+
+.INEFFECT{
+    background-color:#4CAF50;;
+    color: white;
+}
+.PENDING{
+    background-color:yellow; 
+    color: black;
+}
+
+.NEGOTIATION{
+    background-color: #008CBA;
+    color:white;
+}
+
+.pdfobject-container { 
+    height: 30rem; 
+    border: 1rem solid rgba(0,0,0,.1); 
+}
